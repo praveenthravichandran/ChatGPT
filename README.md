@@ -112,8 +112,6 @@ Start
 
 ## Demo
 
-https://user-images.githubusercontent.com/94070164/236692494-a50edafc-7864-439a-9cb3-fa112abc00a6.mp4
-
 ![Screenshot_2023-04-28_12-45-28](https://user-images.githubusercontent.com/94070164/236693044-a4884b84-a058-46ba-ae50-0f9b50f92f02.png)
 
 ![Screenshot_2023-04-28_12-45-42](https://user-images.githubusercontent.com/94070164/236693067-fdf687ce-fafc-495b-9b1e-ad19ae18a339.png)
